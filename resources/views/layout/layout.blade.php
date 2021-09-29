@@ -30,6 +30,13 @@
     <div class="z-0">
         @yield('content')
     </div>
+
+    <style>
+        body {
+            overflow-x: hidden;
+        }
+
+    </style>
 </body>
 
 <script>
