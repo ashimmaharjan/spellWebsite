@@ -27,7 +27,7 @@
     }
 
     .myHero {
-        height: 90vh;
+        height: 85vh;
         background: #003A6B;
     }
 
@@ -40,6 +40,7 @@
     .myHeadings {
         font-family: 'Raleway', sans-serif;
         text-align: center;
+        font-weight: 600;
     }
 
     .glowingDivs {

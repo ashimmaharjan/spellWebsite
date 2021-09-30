@@ -1,6 +1,6 @@
 <div class=" w-full myHero text-white ">
     <div class=" grid grid-cols-1 lg:grid-cols-2 gap-3">
-        <div class=" col-span-1 text-white pt-32">
+        <div class=" col-span-1 text-white pt-32 order-2 lg:order-1">
             <h2 class="text-center text-6xl myheadings font-extrabold" data-aos="fade-right" data-aos-duration="2000">
                 Spell
                 Innovation
@@ -20,12 +20,16 @@
             </div>
         </div>
 
-        <div class=" col-span-1 flex justify-center items-center">
+        <div class=" col-span-1 flex justify-center items-center order-1 lg:order-2">
             <div data-aos="zoom-out" data-aos-duration="2000">
-                <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_mnek7m6l.json" class="w-full h-full"
+                <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_mnek7m6l.json" class="w-full h-96"
                     background="transparent" speed="1" loop autoplay>
                 </lottie-player>
             </div>
         </div>
     </div>
 </div>
+
+<style>
+
+</style>

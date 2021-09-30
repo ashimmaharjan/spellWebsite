@@ -47,7 +47,7 @@
         width: 100%;
         display: flex;
         transition: 0.6s;
-        z-index: 10;
+        z-index: 9999;
         background: #003A6B;
     }
 
